@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Leviathan
-
 For Video tutorial:
 https://youtu.be/1b-KOj3Lrjk
 
