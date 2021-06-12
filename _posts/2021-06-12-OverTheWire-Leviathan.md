@@ -3,6 +3,9 @@ published: false
 ---
 ## Leviathan
 
+For Video tutorial:
+https://youtu.be/1b-KOj3Lrjk
+
 __Leviathan__: A large aquatic creature of some kind. The Bible refers to it as a fearsome beast having monstrous ferocity and great power. Today, the word has become synonymous with any large sea monster or creature. In literature it refers to great whales, and in Modern Hebrew, it simply means "whale". And trust me... you will have a "whale" of a time with this wargame! Eh? EH? No? -- Fine, I'll see my way out...
 
 Anyways, (hah "whale of a time"... I think I'm funny) ... anyways, Leviathan is a wargame that was rescued from the demise of intruded.net, previously hosted on __leviathan.intruded.net__. It can now be found (http://overthewire.org/wargames/leviathan/) at OverTheWire. The wargame consists of 8 levels and is classified as 1/10 difficulty. It also states that "*This wargame doesn't require any knowledge about programming - just a bit of common sense and some knowledge about basic *nix commands.*"
