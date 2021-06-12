@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Leviathan
 
@@ -360,4 +360,4 @@ leviathan7@melinda:~$ cat CON*
 Well Done, you seem to have used a *nix system before, now try something more serious.
 ```
 
-Congratulations! You have conquered __Leviathan__! 
+Congratulations! You have conquered __Leviathan__!
