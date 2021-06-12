@@ -1,6 +1,9 @@
 ---
 published: true
 ---
+For video tutorial 3:
+https://youtu.be/dDnbXSZQ8Wg
+
 Now let's see the last ones 26-34.
 Don't give up now, higher the level, more interesting it is.
 
