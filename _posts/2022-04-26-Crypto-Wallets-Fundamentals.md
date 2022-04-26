@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Crypto Wallet Fundamentals
 
