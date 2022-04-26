@@ -1,9 +1,7 @@
 ---
 published: true
 ---
-## Crypto Wallet Fundamentals
-
-### 🤯 Let's understand wallets.
+### Let's understand wallets.
 
 There are two types of crypto wallets: __Hot__ Wallet and __Cold__. Just like your coffee.
 
